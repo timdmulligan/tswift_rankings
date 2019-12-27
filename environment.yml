@@ -1,0 +1,12 @@
+name: tswift_rankings
+dependencies:
+  - python=3.7
+  - black
+  - jupyter
+  - numpy
+  - pandas
+  - pylint
+  - plotly=3
+  - scipy
+  - pip:
+    - spotipy
